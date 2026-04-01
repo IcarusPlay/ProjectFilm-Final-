@@ -31,7 +31,7 @@ MongoDB (логирование поисковых запросов)
 ## Структура проекта.
 
 - main.py - основная логика программы и меню.
-- config.py - ввод данных для подключение к MySQL и MongoDB.
+- config.py - конфигурация.
 - mysql_connector.py - подключение к MySQL и SQL запросы.
 - formatter.py - вывод результатов поиска.
 - log_writer.py - запись логов в MongoDB.
